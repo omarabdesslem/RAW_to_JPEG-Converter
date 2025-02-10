@@ -1,6 +1,6 @@
 # Advanced Image Converter
 
-As a photographer who uses RAW files, I know firsthand that professional photos can take up a massive amount of space – sometimes more than **50GB** right after a trip! To save space while keeping my holiday photos, I developed this program. It converts **RAW photos to smaller, more space-friendly JPEGs**!
+As a photographer who uses RAW files, I know firsthand that professional photos can take up a massive amount of space – sometimes more than **10GB** right after a trip! To save space while keeping my holiday photos, I developed this program. It converts **RAW photos to smaller, more space-friendly JPEGs**!
 
 This way, you can **keep your best photos in PNG/RAW** and convert the rest to JPEGs. It's very easy to use! 😊
 
